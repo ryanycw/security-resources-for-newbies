@@ -1,4 +1,4 @@
-# security-resources-for-newbies
+# Security Resources for Newbies
 A complete cybersecurity study plan to become a security engineer.
 
 ---
