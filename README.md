@@ -14,6 +14,7 @@ A complete cybersecurity study plan to become a security engineer.
 ### Tutorial & Blog
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [Free Buf](https://www.freebuf.com/)
+- [小資工程師維持資安證照之路](https://ithelp.ithome.com.tw/users/20084806/ironman/3384)
 
 ### Learning Platform
 - [Try Hack Me](https://tryhackme.com/)
